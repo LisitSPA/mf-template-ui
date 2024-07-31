@@ -86,7 +86,7 @@ Instrucciones para actualizar o agregar rutas en el import map.
 <script type="systemjs-importmap">
 {
   "imports": {
-    @react-gufo-mf/nuevoNombre-ui": "http://localhost:9006/react-gufo-mf-nuevoNombre-ui.js",
+    @react-gufo-mf/nuevoNombre-ui": "http://localhost:9005/react-gufo-mf-nuevoNombre-ui.js",
     ...
   }
 }
