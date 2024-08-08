@@ -92,5 +92,13 @@ Instrucciones para actualizar o agregar rutas en el import map.
 }
 </script>
 ```
+### Agregar ruta con aplicación en microfrontend-layout.html
 
+
+```html
+//  Agregar una ruta nueva
+  <route path="/rutaNueva" exact>
+        <application name="@react-gufo-mf/nuevoNombre-ui"></application>
+ </route>
+```
 
